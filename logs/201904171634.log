@@ -1,0 +1,5 @@
+2019-04-17 16:34:12,469 - browser_engine.py - [line:29] - INFO - You have selected Chrome browser 
+2019-04-17 16:34:12,469 - browser_engine.py - [line:31] - INFO - You have input URL https://www.baidu.com 
+2019-04-17 16:34:17,655 - browser_engine.py - [line:41] - INFO - Launching Chrome now.
+2019-04-17 16:34:20,579 - browser_engine.py - [line:44] - INFO - Opening https://www.baidu.com
+2019-04-17 16:34:20,581 - browser_engine.py - [line:46] - INFO - Set implicitly wait 3 seconds.

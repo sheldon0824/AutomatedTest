@@ -3,7 +3,8 @@ import os.path
 from selenium import webdriver
 from framework.logger import Logger
 
-logger = Logger(logger="").get_log()
+# create a logger instance
+logger = Logger(logger="BrowserEngine").get_log()
 
 
 class BrowserEngine(object):

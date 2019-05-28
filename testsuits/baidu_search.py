@@ -29,9 +29,12 @@ class BaiduSearch(unittest.TestCase):
         time.sleep(2)
         try:
             assert "selenium" in self.driver.title
-            print('Test Pass.')
+            print('Found selenium in the title, Test Pass.')
         except Exception as e:
             print("Test Fail", format(e))
+
+    def test_search_2(self):
+        pass
 
 
 if __name__ == '__main__':
