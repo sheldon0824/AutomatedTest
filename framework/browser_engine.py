@@ -14,7 +14,7 @@ class BrowserEngine(object):
     firefox_driver_path = dir + '/tools/geckodriver.exe'
     ie_driver_path = dir + '/tools/IEDriverServer.exe'
     # C:\Users\艺东Sheldon\PycharmProjects\automation_framework_demo\tools
-    print(chrome_driver_path)
+    # print(chrome_driver_path)
 
     def __init__(self, driver):
         self.driver = driver

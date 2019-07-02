@@ -1,0 +1,38 @@
+2019-06-28 14:42:44,719 - browser_engine.py - [line:30] - INFO - You have selected Chrome browser 
+2019-06-28 14:42:44,720 - browser_engine.py - [line:32] - INFO - You have input URL https://www.baidu.com 
+2019-06-28 14:42:48,487 - browser_engine.py - [line:42] - INFO - Launching Chrome now.
+2019-06-28 14:42:50,306 - browser_engine.py - [line:45] - INFO - Opening https://www.baidu.com
+2019-06-28 14:42:50,309 - browser_engine.py - [line:47] - INFO - Set implicitly wait 3 seconds.
+2019-06-28 14:42:50,412 - base_page.py - [line:80] - INFO - Select element '' successfully, by id via value:kw 
+2019-06-28 14:42:50,827 - base_page.py - [line:118] - INFO - Had type selenium into textbox
+2019-06-28 14:42:50,897 - base_page.py - [line:102] - INFO - Found the element '' successfully, by xpath via value://*[@id='su']
+2019-06-28 14:42:51,068 - base_page.py - [line:140] - INFO - Mouse on the element and click
+2019-06-28 14:42:53,410 - base_page.py - [line:53] - INFO - Took a screenshot and saved.
+2019-06-28 14:42:53,421 - base_page.py - [line:147] - INFO - Current page's title is:selenium_百度搜索
+2019-06-28 14:42:53,460 - base_page.py - [line:80] - INFO - Select element '' successfully, by id via value:kw 
+2019-06-28 14:42:53,760 - base_page.py - [line:118] - INFO - Had type Python into textbox
+2019-06-28 14:42:53,821 - base_page.py - [line:102] - INFO - Found the element '' successfully, by xpath via value://*[@id='su']
+2019-06-28 14:42:53,946 - base_page.py - [line:140] - INFO - Mouse on the element and click
+2019-06-28 14:42:57,269 - base_page.py - [line:53] - INFO - Took a screenshot and saved.
+2019-06-28 14:42:59,697 - browser_engine.py - [line:30] - INFO - You have selected Chrome browser 
+2019-06-28 14:42:59,698 - browser_engine.py - [line:32] - INFO - You have input URL https://www.baidu.com 
+2019-06-28 14:43:04,044 - browser_engine.py - [line:42] - INFO - Launching Chrome now.
+2019-06-28 14:43:05,846 - browser_engine.py - [line:45] - INFO - Opening https://www.baidu.com
+2019-06-28 14:43:05,849 - browser_engine.py - [line:47] - INFO - Set implicitly wait 3 seconds.
+2019-06-28 14:43:05,859 - base_page.py - [line:147] - INFO - Current page's title is:百度一下，你就知道
+2019-06-28 14:43:06,180 - base_page.py - [line:53] - INFO - Took a screenshot and saved.
+2019-06-28 14:43:08,595 - browser_engine.py - [line:30] - INFO - You have selected Chrome browser 
+2019-06-28 14:43:08,596 - browser_engine.py - [line:32] - INFO - You have input URL https://www.baidu.com 
+2019-06-28 14:43:12,662 - browser_engine.py - [line:42] - INFO - Launching Chrome now.
+2019-06-28 14:43:14,110 - browser_engine.py - [line:45] - INFO - Opening https://www.baidu.com
+2019-06-28 14:43:14,113 - browser_engine.py - [line:47] - INFO - Set implicitly wait 3 seconds.
+2019-06-28 14:43:14,191 - base_page.py - [line:102] - INFO - Found the element '新闻' successfully, by xpath via value://*[@id='u1']/a[1]
+2019-06-28 14:43:17,422 - base_page.py - [line:140] - INFO - Mouse on the element and click
+2019-06-28 14:43:19,424 - base_page.py - [line:153] - INFO - You have been sleep for 2 seconds
+2019-06-28 14:43:19,462 - base_page.py - [line:102] - INFO - Found the element '体育' successfully, by xpath via value://*[@id='channel-all']/div/ul/li[7]/a
+2019-06-28 14:43:20,738 - base_page.py - [line:140] - INFO - Mouse on the element and click
+2019-06-28 14:43:22,739 - base_page.py - [line:153] - INFO - You have been sleep for 2 seconds
+2019-06-28 14:43:22,774 - base_page.py - [line:102] - INFO - Found the element '体育视频' successfully, by xpath via value://*/div[@class='mod']/div[@class='hd']/h3/a
+2019-06-28 14:43:23,070 - base_page.py - [line:140] - INFO - Mouse on the element and click
+2019-06-28 14:43:25,072 - base_page.py - [line:153] - INFO - You have been sleep for 2 seconds
+2019-06-28 14:43:25,734 - base_page.py - [line:53] - INFO - Took a screenshot and saved.

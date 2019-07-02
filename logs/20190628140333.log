@@ -1,0 +1,16 @@
+2019-06-28 14:03:33,090 - browser_engine.py - [line:30] - INFO - You have selected Chrome browser 
+2019-06-28 14:03:33,091 - browser_engine.py - [line:32] - INFO - You have input URL https://www.baidu.com 
+2019-06-28 14:03:42,643 - browser_engine.py - [line:42] - INFO - Launching Chrome now.
+2019-06-28 14:03:44,675 - browser_engine.py - [line:45] - INFO - Opening https://www.baidu.com
+2019-06-28 14:03:44,717 - browser_engine.py - [line:47] - INFO - Set implicitly wait 3 seconds.
+2019-06-28 14:03:45,073 - base_page.py - [line:80] - INFO - Select element '' successfully, by id via value:kw 
+2019-06-28 14:03:45,468 - base_page.py - [line:118] - INFO - Had type selenium into textbox
+2019-06-28 14:03:45,532 - base_page.py - [line:102] - INFO - Found the element '' successfully, by xpath via value://*[@id='su']
+2019-06-28 14:03:45,874 - base_page.py - [line:140] - INFO - Mouse on the element and click
+2019-06-28 14:03:48,418 - base_page.py - [line:53] - INFO - Took a screenshot and saved.
+2019-06-28 14:03:48,427 - base_page.py - [line:147] - INFO - Current page's title is:selenium_°Ù¶ÈËÑË÷
+2019-06-28 14:03:48,473 - base_page.py - [line:80] - INFO - Select element '' successfully, by id via value:kw 
+2019-06-28 14:03:48,715 - base_page.py - [line:118] - INFO - Had type Python into textbox
+2019-06-28 14:03:48,755 - base_page.py - [line:102] - INFO - Found the element '' successfully, by xpath via value://*[@id='su']
+2019-06-28 14:03:48,867 - base_page.py - [line:140] - INFO - Mouse on the element and click
+2019-06-28 14:03:52,197 - base_page.py - [line:53] - INFO - Took a screenshot and saved.

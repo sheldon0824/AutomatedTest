@@ -17,7 +17,7 @@ class Logger(object):
         self.logger.setLevel(logging.DEBUG)  # 设置日志级别, 显示debug以上的信息
         # 日志级别等级为：CRITICAL > ERROR > WARNING > INFO > DEBUG > NOTSET
 
-        riqi = time.strftime("%Y%m%d%H%M", time.localtime(time.time()))
+        riqi = time.strftime("%Y%m%d%H%M%S", time.localtime(time.time()))
         log_path = os.path.dirname(os.getcwd()) + '/logs/'
         log_name = log_path + riqi + '.log'
 
